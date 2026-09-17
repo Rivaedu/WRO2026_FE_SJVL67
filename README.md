@@ -27,6 +27,7 @@
 
 ## 1. **Complete Documentation Structure** <a id="complete-documentation-structure"></a>
 
+<div align="center">
 
 ## **DETAILED TECHNICAL DOCUMENTATION AVAILABLE**
 
@@ -42,3 +43,6 @@
 | **🎥 Videos** | **Performance Validation**<br>• Challenge demonstrations<br>• Engineering tests<br>• System validation | [🔗 Explore Performance Videos Documentation](video/README.md) |
 | **📚 Other Resources** | **Technical References**<br>• Component images<br>• Development resources<br>• Additional documentation | [🔗 Explore Additional Resources Documentation](other/README.md) |
 
+</div>
+
+---
