@@ -12,17 +12,17 @@
 ---
 
 ##  **Table of Contents**
-- [ Complete Documentation Structure](#complete-documentation-structure)
-- [ The Team](#the-team)
-- [ Challenge Overview](#challenge-overview)
-- [ Our Robot](#our-robot)
-- [ Electronic Systems](#electronic-systems)
-- [ Mechanical Systems](#mechanical-systems)
-- [ Software Architecture](#software-architecture)
-- [ Performance Videos](#performance-videos)
-- [ GitHub Utilization & Development](#github-utilization--development)
-- [ License & Replication](#license--replication)
+- [ 1. Complete Documentation Structure](#complete-documentation-structure)
+- [ 2. The Team](#the-team)
+- [ 3. Challenge Overview](#challenge-overview)
+- [ 4. Our Robot](#our-robot)
+- [ 5. Electronic Systems](#electronic-systems)
+- [ 6. Mechanical Systems](#mechanical-systems)
+- [ 7. Software Architecture](#software-architecture)
+- [ 8. Performance Videos](#performance-videos)
+- [ 9. GitHub Utilization & Development](#github-utilization--development)
+- [ 10. License & Replication](#license--replication)
 
 ---
 
-## **Complete Documentation Structure** <a id="complete-documentation-structure"></a>
+## 1. **Complete Documentation Structure** <a id="complete-documentation-structure"></a>
