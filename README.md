@@ -84,72 +84,22 @@ Team SJVL67 includes passionate students from Ecuador, guided by a coach. This i
 ---
 
 ## 3. **Challenge Overview** <a id="challenge-overview"></a>
-<div align="center">
 
-## 🏁 **WRO 2025 Future Engineers Challenges**
+The **WRO 2026 Future Engineers** challenge pushes teams to develop a **fully autonomous vehicle** capable of navigating a **dynamic and randomized racetrack** using **sensors, computer vision, and advanced control algorithms**. The goal is to complete **multiple laps** while adapting to randomized obstacles, following **strict driving rules**, and successfully executing a **parallel parking maneuver** at the end of the course.
 
-### **Two distinct autonomous navigation challenges testing vehicle intelligence and precision**
+###  Competition Format 
 
-</div>
+- ** Open Challenge**: The vehicle must complete **three (3) laps** on a track with **randomly placed inside walls**.
 
-### - **Open Challenge**
-<div align="center">
+- ** Obstacle Challenge**: The vehicle must complete **three (3) laps** while detecting and responding to **randomly placed red and green traffic signs**:
+  - 🟥 **Red markers** ➜ The vehicle must stay on the **right side of the lane**.
+  - 🟩 **Green markers** ➜ The vehicle must stay on the **left side of the lane**.
+  
+  After completing the three laps, the vehicle must **locate the designated parking zone** and perform a **precise parallel parking maneuver** within a limited space, adding an extra layer of difficulty.
+  
+- ** Documentation**: Each team must maintain a **public GitHub repository** showcasing their **engineering process, vehicle design, and source code**.
 
-**Objective**: Complete three autonomous laps on dynamically configured tracks
+### Scoring & Evaluation
+Scoring is based on **accuracy, technical documentation and speed**, rewarding teams that balance **efficiency, adaptability, and innovation**. This challenge not only tests **robotics and programming skills** but also promotes **problem-solving, teamwork, and engineering creativity**.
 
-| Aspect | Challenge | Our Solution |
-|--------|-----------|--------------|
-| **Track Variability** | Random internal wall placements | Adaptive path planning algorithms |
-| **Navigation** | Unknown track layouts each round | Robust wall-following with corner detection |
-| **Performance** | Consistent lap times across variations | Optimized PID control and sensor fusion |
-| **Precision** | Maintain course in narrow lanes | High-accuracy steering and speed control |
-
-</div>
-
-### - **Obstacle Challenge**
-<div align="center">
-
-**Objective**: Navigate three laps with traffic sign compliance and precision parking
-
-| Challenge Element | Requirement | Our Implementation |
-|-------------------|-------------|-------------------|
-| **Traffic Signs** | Red → Right bias<br>Green → Left bias | Real-time color detection with LAB colorspace |
-| **Obstacle Avoidance** | Dynamic path adjustment | Smooth following at consistent distances |
-| **Parking Maneuver** | Parallel parking after lap completion | Multi-stage parking with sensor validation |
-| **Navigation** | Shortest path optimization | Efficient routing around obstacle combinations |
-</div>
-
-### - **Documentation Evaluation Framework**
-
-<div align="center">
-
-## **WRO 2025 Engineering Documentation Scoring (30 points total)**
-
-| Scoring Area | Maximum Points | Our Documentation Coverage |
-|--------------|----------------|---------------------------|
-| **1. Mobility Management** | 4 points | Complete mechanical design, motor selection, steering system, assembly instructions |
-| **2. Power & Sense Management** | 4 points | Power systems, sensor integration, wiring diagrams, component specifications |
-| **3. Obstacle Management** | 4 points | Navigation algorithms, parking strategies, source code with detailed comments |
-| **4. Pictures – Team and Vehicle** | 4 points | Multi-angle vehicle photos, team photos, component labeling |
-| **5. Performance Videos** | 4 points | Complete challenge demonstrations with commentary and analysis |
-| **6. GitHub Utilization** | 4 points | Version control, structured documentation, regular commits |
-| **7. Engineering Factor** | 4 points | Custom design and manufacturing throughout the vehicle |
-| **8. Overall Judge Impression** | 2 points | Clear communication enabling easy replication |
-| **Total Documentation Score** | **30 points** | **(≈25% of total competition score)** |
-</div>
-
-### - **Key Evaluation Areas**
-- **Performance and adaptability** in randomized track conditions
-- **Precision in maneuvers**, especially parallel parking execution  
-- **Comprehensive public engineering documentation** on GitHub with complete transparency
-- **Custom design innovation** and manufacturing process documentation
-- **Professional presentation** enabling effortless replication by other teams
-
-**Scoring Philosophy**: Documentation is evaluated based on completeness, structure, and ease of replication - not comparison between teams. Each scoring area uses a 0-4 point scale where "Exceeds Expectations" requires not only enabling exact duplication but also providing improvement suggestions.
-
-### - **Educational Objectives**
-- **Advanced Computer Vision**: Real-world implementation of color space theory
-- **Sensor Fusion**: Integrating multiple data sources for robust navigation
-- **Control Systems**: Precision steering and speed control algorithms
-- **Engineering Documentation**: Professional technical communication
-- **Problem Solving**: Systematic approach to technical challenges
+ **Find out more about the challenge [here](https://wro-association.org/wp-content/uploads/WRO-2026-Future-Engineers-Self-Driving-Cars-General-Rules.pdf).**
