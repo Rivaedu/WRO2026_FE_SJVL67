@@ -84,7 +84,7 @@ Team SJVL67 includes passionate students from Ecuador, guided by a coach. This i
 ---
 
 ## 3. **Challenge Overview** <a id="challenge-overview"></a>
-
+### 3.1 **Open Challenge**
 <div align="center">
 
 ## 🏁 **WRO 2025 Future Engineers Challenges**
@@ -120,7 +120,7 @@ Team SJVL67 includes passionate students from Ecuador, guided by a coach. This i
 | **Navigation** | Shortest path optimization | Efficient routing around obstacle combinations |
 </div>
 
-### - **Documentation Evaluation Framework**
+### 3.2 **Documentation Evaluation Framework**
 
 <div align="center">
 
