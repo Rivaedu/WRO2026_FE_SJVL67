@@ -1,5 +1,4 @@
-Engineering materials
-====
+# WRO 2025 Future Engineers – SJVL67
 
 <center>
   <img width="600" height="600" src="https://github.com/user-attachments/assets/926b00a1-416a-4c51-b026-9647d3f717bc" />
