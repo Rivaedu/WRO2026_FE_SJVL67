@@ -1,4 +1,4 @@
-# WRO 2025 Future Engineers – SJVL67
+# WRO 2026 Future Engineers – SJVL67
 
 <center>
   <img width="600" height="600" src="https://github.com/user-attachments/assets/926b00a1-416a-4c51-b026-9647d3f717bc" />
@@ -27,15 +27,13 @@
 
 ## 1. **Complete Documentation Structure** <a id="complete-documentation-structure"></a>
 
-<div align="center">
 
-## 🔍 **DETAILED TECHNICAL DOCUMENTATION AVAILABLE**
+## **DETAILED TECHNICAL DOCUMENTATION AVAILABLE**
 
 ### **Each folder contains comprehensive README documentation with specialized technical content**
 
 | 📁 Folder | 🎯 Technical Content | 📖 Detailed Documentation |
 |-----------|----------------------|---------------------------|
-| **🧮 MATLAB** | **Vision System Calibration**<br>• LAB colorspace analysis<br>• Threshold optimization<br>• Lighting condition testing | [🔗 Explore MATLAB Documentation](matlab/README.md) |
 | **⚙ Models** | **Mechanical Engineering**<br>• 3D CAD designs<br>• Assembly instructions<br>• Gear system calculations | [🔗 Explore 3D Models & Assembly Documentation](models/README.md) |
 | **🔌 Schemes** | **Electrical Systems**<br>• Wiring diagrams<br>• Power management<br>• Component schematics & datasheets | [🔗 Explore Schematics & Wiring Documentation](schemes/README.md) |
 | **💾 Source Code** | **Software Algorithms**<br>• Navigation logic<br>• Sensor fusion<br>• Control systems | [🔗 Explore Software & Algorithms Documentation](src/README.md) |
