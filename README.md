@@ -1,4 +1,3 @@
-<img width="1254" height="1254" alt="d8f65253-6b52-43d9-8f23-5af6de7e3179" src="https://github.com/user-attachments/assets/926b00a1-416a-4c51-b026-9647d3f717bc" />
 Engineering materials
 ====
 <center>
