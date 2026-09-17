@@ -2,7 +2,7 @@
 Engineering materials
 ====
 <center>
-  <img width="600" height="600" alt="d8f65253-6b52-43d9-8f23-5af6de7e3179" src="https://github.com/user-attachments/assets/926b00a1-416a-4c51-b026-9647d3f717bc" />
+  <img width="600" height="600" src="https://github.com/user-attachments/assets/926b00a1-416a-4c51-b026-9647d3f717bc" />
 </center>
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
 
