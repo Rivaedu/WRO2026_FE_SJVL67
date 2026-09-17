@@ -46,3 +46,27 @@
 </div>
 
 ---
+
+## 2. **The Team** <a id="the-team"></a>
+
+Team SJVL67 includes passionate students from Ecuador, guided by a coach. This is our **first year** competing in the WRO Future Engineers category, and each member brings unique skills to the project, from mechanical design to computer vision.
+
+<div align="center">
+<img width="447" height="447" alt="images (4)" src="https://github.com/user-attachments/assets/26bf3113-dde3-4416-90f8-930fe24a1e56" />
+</div>
+
+### **Members**
+- **Eduardo Rivadeneira**  
+  *Role*: Electronics, Mechanical Design, Strategy Integration  
+  *Background*: Second Bach Student, Physics Area, Robotics club since 2022, American School of Guayaquil  
+  *Born*: 2009, Ecuador
+
+- **Henry Riera**  
+  *Role*: Computer Vision Research, Strategy  
+  *Background*: Second Bach Student, Physics Area, Robotics club since 2023, American School of Guayaquil  
+  *Born*: 2010, Ecuador
+
+- **Geovanny Li**  
+  *Role*: Computer Vision Research, Strategy  
+  *Background*: First Bach Student, Robotics club since 2023, American School of Guayaquil  
+  *Born*: 2010, Ecuador
