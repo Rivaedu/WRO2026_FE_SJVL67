@@ -6,7 +6,7 @@ This folder contains the complete electrical schematics, and power management do
 
 We choosed a pcb due to the organization management that it provides to the electronics. We used a web based EDA in order to design this PCB, the program used was EasyEDA. We wanted to use a custom pertinax board but it was too bulky, but in the end we selected the PCB for the the previous mentioned reasons, even if it presented the problem of slow manufacturing and modification produced by the need of get them machined in China, we are from Ecuador. With us making a custom design we developed the essential engineering skills to manufacture it int the best way.
 
-## 📋 Complete Bill of Materials (BOM)
+## Complete Bill of Materials (BOM)
 
 
 | Component | Image | Quantity | Type | Description |
@@ -16,10 +16,13 @@ We choosed a pcb due to the organization management that it provides to the elec
 | OV2640 | <img src="../schemes/ov2640_image.jpg" alt="Camera" width="200"> | 1 | 2MP camera | A 2-Megapixel CMOS sensor with a 68° view angle and 3.6mm focal length. |
 | TOF400C | <img src="../schemes/TOF400C.jpg" alt="ToF Sensor" width="200"> | 4 | ToF sensor | 400cm range, 27° FOV - used for front, back, and sides detection. |
 | BMI160 | <img src="../schemes/BMI160_image.jpg" alt="IMU" width="200"> | 1 | 6-axis IMU |  A 6-axis motion sensor combining a 3-axis accelerometer and a 3-axis gyroscope for navigation. |
-| TB6612FNG DRIVER | <img src="../schemes/tb6612fng_image.jpg" alt="MOTOR DRIVER" width="200"> | 1 | Motor Driver |  A PWM motor driver for DC motor control |
-| VOLTAGE REGULATOR | <img src="../schemes/Buck_converter_image.jpg" alt="VOLTAGE REGULATOR" width="200"> | 1 | Voltage Regulator |  A step-down 5v voltage regulator to power the microcontrollers and the sensors. |
+| TB6612FNG DRIVER | <img src="../schemes/tb6612fng_image.jpg" alt="Motor Driver" width="200"> | 1 | Motor Driver |  A PWM motor driver for DC motor control |
+| VOLTAGE REGULATOR | <img src="../schemes/Buck_converter_image.jpg" alt="Voltage Regulator" width="200"> | 1 | Voltage Regulator |  A step-down 5v voltage regulator to power the microcontrollers and the sensors. |
 | SG90 SERVO | <img src="../schemes/SG90_IMAGE.jpg" alt="Servo" width="200"> | 1 | Servo Motor | Micro servo motor for the steering mechanism. |
 | 1000rpm N20 motor | <img src="../schemes/1000rpm_N20_dc_motor_encoder.jpg" alt="DC Motor + Encoder" width="200"> | 1 | DC Motor + Encoder | Brushed DC motor with Hall effect encoder. |
+| GNB 3s 380mAh lipo | <img src="../schemes/Battery_image.jpg" alt="Battery" width="200"> | 1 | Battery | 11.4V 380mAh lipo battery. |
+| Start Button | <img src="../schemes/BUTTON_image.jpg" alt="Start Button" width="200"> | 1 | Start Button | Start action initiation button. |
+| Custom Tire | <img src="../schemes/Custom_Tire_image.jpeg" alt="Tire" width="200"> | 1 | Tire | 41mm diameter, 5mm silicon tire. |
 
 ---
 <center>
