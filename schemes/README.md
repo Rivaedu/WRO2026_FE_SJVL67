@@ -11,10 +11,13 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 | Component | Image | Quantity | Type | Description |
 |-----------|-------|----------|------|-------------|
-| Arduino Nano ESP32 | <img src="Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="200"> | 1 | Sensor Microcontroller | Dual-core high-performance microcontroller for vision processing |
+| Arduino Nano ESP32 | <img src="../schemes/Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="200"> | 1 | Sensor Microcontroller | Dual-core 240MHz microcontroller with 512KB SRAM and 3.3V logic. Used for sensor managing, controlling the motors, and processing data. |
+| ESP32-S3-CAM | <img src="../schemes/esp32s3-cam.jpg" alt="Camera Microcontroller" width="200"> | 1 | Camera Microcontroller | Dual-core 240MHz processor with vector instructions and 3.3V logic. Used for computer vision. |
+| OV2640 | <img src="../schemes/ov2640_image.jpg" alt="Camera" width="200"> | 1 | 2MP camera | A 2-Megapixel CMOS sensor with a 68° view angle and 3.6mm focal length. |
+| TOF400C | <img src="../schemes/TOF400C.jpg" alt="ToF Sensor" width="200"> | 4 | ToF sensor | 400cm range, 27° FOV - used for front, back, and sides detection |
 
 ---
 <center>
-  <img src="SCH_WRO_1-Sheet_1.png" width="600">
+  <img src="../schemes/SCH_WRO_1-Sheet_1.png" width="600">
 </center>
 This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
