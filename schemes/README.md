@@ -11,10 +11,15 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 | Component | Image | Quantity | Type | Description |
 |-----------|-------|----------|------|-------------|
-| Arduino Nano ESP32 | <img src="../schemes/Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="200"> | 1 | Sensor Microcontroller | Dual-core 240MHz microcontroller with 512KB SRAM and 3.3V logic. Used for sensor managing, controlling the motors, and processing data. |
+| ARDUINO NANO ESP32 | <img src="../schemes/Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="200"> | 1 | Sensor Microcontroller | Dual-core 240MHz microcontroller with 512KB SRAM and 3.3V logic. Used for sensor managing, controlling the motors, and processing data. |
 | ESP32-S3-CAM | <img src="../schemes/esp32s3-cam.jpg" alt="Camera Microcontroller" width="200"> | 1 | Camera Microcontroller | Dual-core 240MHz processor with vector instructions and 3.3V logic. Used for computer vision. |
 | OV2640 | <img src="../schemes/ov2640_image.jpg" alt="Camera" width="200"> | 1 | 2MP camera | A 2-Megapixel CMOS sensor with a 68° view angle and 3.6mm focal length. |
-| TOF400C | <img src="../schemes/TOF400C.jpg" alt="ToF Sensor" width="200"> | 4 | ToF sensor | 400cm range, 27° FOV - used for front, back, and sides detection |
+| TOF400C | <img src="../schemes/TOF400C.jpg" alt="ToF Sensor" width="200"> | 4 | ToF sensor | 400cm range, 27° FOV - used for front, back, and sides detection. |
+| BMI160 | <img src="../schemes/BMI160_image.jpg" alt="IMU" width="200"> | 1 | 6-axis IMU |  A 6-axis motion sensor combining a 3-axis accelerometer and a 3-axis gyroscope for navigation. |
+| TB6612FNG DRIVER | <img src="../schemes/tb6612fng_image.jpg" alt="MOTOR DRIVER" width="200"> | 1 | Motor Driver |  A PWM motor driver for DC motor control |
+| VOLTAGE REGULATOR | <img src="../schemes/Buck_converter_image.jpg" alt="VOLTAGE REGULATOR" width="200"> | 1 | Voltage Regulator |  A step-down 5v voltage regulator to power the microcontrollers and the sensors. |
+| SG90 SERVO | <img src="../schemes/SG90_IMAGE.jpg" alt="Servo" width="200"> | 1 | Servo Motor | Micro servo motor for the steering mechanism. |
+| 1000rpm N20 motor | <img src="../schemes/SG90_IMAGE.jpg" alt="Servo" width="200"> | 1 | Servo Motor | Micro servo motor for the steering mechanism. |
 
 ---
 <center>
