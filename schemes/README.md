@@ -11,7 +11,7 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 | Component | Image | Quantity | Type | Description |
 |-----------|-------|----------|------|-------------|
-| Arduino Nano ESP32 | <img src="other/Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="200"> | 1 | Camera Microcontroller | Dual-core high-performance microcontroller for vision processing |
+| Arduino Nano ESP32 | <img src="Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="200"> | 1 | Sensor Microcontroller | Dual-core high-performance microcontroller for vision processing |
 
 ---
 <center>
