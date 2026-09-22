@@ -1,7 +1,7 @@
 # WRO 2026 Future Engineers – SJVL67
 
 <center>
-  <img width="600" height="600" src="https://github.com/user-attachments/assets/926b00a1-416a-4c51-b026-9647d3f717bc" />
+  <img src="other/team_sjvl67_logo.png" alt=Banner width="600">
 
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SJVL67)
 </center>
