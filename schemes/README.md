@@ -25,7 +25,10 @@ We choosed a pcb due to the organization management that it provides to the elec
 | Custom Tire | <img src="../schemes/Custom_Tire_image.jpeg" alt="Tire" width="200"> | 1 | Tire | 41mm diameter, 5mm silicon tire. |
 
 ---
+
+## Complete Wiring System
+
 <center>
+  PCB Schematic
   <img src="../schemes/SCH_WRO_1-Sheet_1.png" width="600">
 </center>
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
