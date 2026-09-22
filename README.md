@@ -62,14 +62,14 @@ Team SJVL67 includes passionate students from Ecuador, guided by a coach. This i
   *Born*: 2009, Ecuador
 
 - **Henry Riera**  
-  *Role*: Computer Vision Research, Strategy  
+  *Role*: Computer Vision Research, Software, Strategy  
   *Background*: Second Bach Student, Physics Area, Robotics club since 2023, American School of Guayaquil  
   *Born*: 2010, Ecuador
 
 - **Geovanny Li**  
-  *Role*: Computer Vision Research, Strategy  
+  *Role*: Computer Vision Research, Software, Strategy  
   *Background*: First Bach Student, Robotics club since 2023, American School of Guayaquil  
-  *Born*: 2010, Ecuador
+  *Born*: 2011, Ecuador
 
 ### **Coach**
 - **Henry Cercado**  
