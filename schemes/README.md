@@ -1,5 +1,12 @@
-Electromechanical diagrams
-====
+# Schemes Documentation
+
+This folder contains the complete electrical schematics, and power management documentation for Team SJVL67 WRO 2026 Future Engineers robot. All the electronics were assambled in a custom PCB designed by us to achieve optimal performance and organization in our robot.
+
+## Why we choosed a PCB?
+
+We choosed a pcb due to the organization management that it provides to the electronics. We used a web based EDA in order to design this PCB, the program used was EasyEDA. We wanted to use a custom pertinax board but it was too bulky, but in the end we selected the PCB for the the previous mentioned reasons, even if it presented the problem of slow manufacturing and modification produced by the need of get them machined in China, we are from Ecuador. With us making a custom design we developed the essential engineering skills to manufacture it int the best way.
+
+---
 <center>
   <img src="SCH_WRO_1-Sheet_1.png" width="600">
 </center>
