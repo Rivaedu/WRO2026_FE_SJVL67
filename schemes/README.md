@@ -19,7 +19,7 @@ We choosed a pcb due to the organization management that it provides to the elec
 | TB6612FNG DRIVER | <img src="../schemes/tb6612fng_image.jpg" alt="MOTOR DRIVER" width="200"> | 1 | Motor Driver |  A PWM motor driver for DC motor control |
 | VOLTAGE REGULATOR | <img src="../schemes/Buck_converter_image.jpg" alt="VOLTAGE REGULATOR" width="200"> | 1 | Voltage Regulator |  A step-down 5v voltage regulator to power the microcontrollers and the sensors. |
 | SG90 SERVO | <img src="../schemes/SG90_IMAGE.jpg" alt="Servo" width="200"> | 1 | Servo Motor | Micro servo motor for the steering mechanism. |
-| 1000rpm N20 motor | <img src="../schemes/SG90_IMAGE.jpg" alt="Servo" width="200"> | 1 | Servo Motor | Micro servo motor for the steering mechanism. |
+| 1000rpm N20 motor | <img src="../schemes/1000rpm_N20_dc_motor_encoder.jpg" alt="DC Motor + Encoder" width="200"> | 1 | DC Motor + Encoder | Brushed DC motor with Hall effect encoder. |
 
 ---
 <center>
