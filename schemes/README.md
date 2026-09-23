@@ -110,6 +110,6 @@ The principal reason to use EasyEDA is because of its connection with their manu
 | **BMI160 IMU** | [BMI160.pdf](BMI160.pdf) | 6-axis motion tracking |
 | **N20 Motor** | [N20_motors.pdf](N20_motors.pdf) | Motor and encoder specifications |
 | **Arduino Nano ESP32** | [Arduino_nano_esp32-datasheet.pdf](Arduino_nano_esp32-datasheet.pdf) | Pin interfaces that handle sensors and peripherals |
-| **ESP32-S3-CAM** | [GitHub: esp32s3-cam]([stm32h747.pdf](https://github.com/nulllaborg/esp32s3-cam/tree/main)) | Dual-core architecture, peripherals |
+| **ESP32-S3-CAM** | [GitHub: esp32s3-cam](https://github.com/nulllaborg/esp32s3-cam/tree/main) | Dual-core architecture, peripherals |
 | **DC Buck Converter** | [CN3903.PDF](CN3903.PDF) | DC-DC step-down converter, 5v |
 | **TOF400C ToF Sensor** | [DS_vl53l1x.pdf](DS_vl53l1x.pdf) | 400cm range, 27° FOV operation |
