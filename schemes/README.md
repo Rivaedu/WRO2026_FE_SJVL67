@@ -30,7 +30,7 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 
   
-  ### PCB Schematic
+  ### - PCB Schematic
 <div align="center">
   
   <img src="../schemes/SCH_WRO_1-Sheet_1.png" alt="PCB Schematic" width="900">
@@ -45,10 +45,23 @@ We choosed a pcb due to the organization management that it provides to the elec
   
 </div>
 
-<center>
+<div align="center">
   
-### Wiring to PCB
+  <em>1) Digitally traced the wiring diagram showing all the external connections of the pcb. • 2) Front side of the manufactured pcb. • 3) Back side of the
+  manufactured pcb.</em>
 
+</div>
+  
+### - Wiring to PCB
+
+<div align="center">
+  
   <img src="../schemes/Wiring_Diagram.png" width="900">
   
-</center>
+</div>
+
+<div align="center"
+  
+<em>1) Digitally traced the wiring diagram showing all the external connections of the pcb.</em>
+
+</div>
