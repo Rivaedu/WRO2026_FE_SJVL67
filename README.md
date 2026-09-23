@@ -1,10 +1,11 @@
 # WRO 2026 Future Engineers – SJVL67
 
-<center>
+<p align="center">
+  
   <img src="other/team_sjvl67_logo.png" alt="Banner" width="600">
 
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SJVL67)
-</center>
+</p>
 
 ---
 
@@ -27,7 +28,7 @@
 
 ## 1. **Complete Documentation Structure** <a id="complete-documentation-structure"></a>
 
-<div align="center">
+<p align="center">
 
 ## **DETAILED TECHNICAL DOCUMENTATION AVAILABLE**
 
@@ -43,7 +44,7 @@
 | **🎥 Videos** | **Performance Validation**<br>• Challenge demonstrations<br>• Engineering tests<br>• System validation | [🔗 Performance Videos Documentation](video/README.md) |
 | **📚 Other Resources** | **Technical References**<br>• Component images<br>• Development resources<br>• Additional documentation | [🔗 Additional Resources Documentation](other/README.md) |
 
-</div>
+</p>
 
 ---
 
@@ -51,9 +52,9 @@
 
 Team SJVL67 includes passionate students from Ecuador, guided by a coach. This is our **first year** competing in the WRO Future Engineers category, and each member brings unique skills to the project, from mechanical design to computer vision.
 
-<div align="center">
+<p align="center">
 <img width="447" height="447" alt="images (4)" src="https://github.com/user-attachments/assets/26bf3113-dde3-4416-90f8-930fe24a1e56" />
-</div>
+</p>
 
 ### **Members**
 - **Eduardo Rivadeneira**  
