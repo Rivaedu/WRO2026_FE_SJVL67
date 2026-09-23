@@ -1,11 +1,11 @@
 # WRO 2026 Future Engineers – SJVL67
 
-<p align="center">
+<div align="center">
   
   <img src="other/team_sjvl67_logo.png" alt="Banner" width="600">
 
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SJVL67)
-</p>
+</div>
 
 ---
 
@@ -52,9 +52,9 @@
 
 Team SJVL67 includes passionate students from Ecuador, guided by a coach. This is our **first year** competing in the WRO Future Engineers category, and each member brings unique skills to the project, from mechanical design to computer vision.
 
-<p align="center">
+<div align="center">
 <img width="447" height="447" alt="images (4)" src="https://github.com/user-attachments/assets/26bf3113-dde3-4416-90f8-930fe24a1e56" />
-</p>
+</div>
 
 ### **Members**
 - **Eduardo Rivadeneira**  
