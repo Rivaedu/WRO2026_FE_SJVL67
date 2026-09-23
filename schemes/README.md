@@ -55,13 +55,34 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 <div align="center">
   
-  <img src="../schemes/Wiring_Diagram.png" width="900">
+  <img src="../schemes/Wiring_Diagram.png" alt="Wiring Diagram" width="900">
+  <img src="../schemes/Physical_Wiring.jpeg" alt="Physical Wiring" width="900">
+  
+</div>
+                
+<div align="center">
+  
+<em>1) Digitally traced the wiring diagram showing all the external connections of the pcb. • 2) hysical implementation of the Wiring diagram.</em>
+
+</div>
+
+---
+
+## Component-Specific Engineering
+
+### - Microcontrollers
+
+<div align="center">
+
+  <img src="../schemes/Arduino_nano_esp32_pcb.png" alt="Front PCB" height="350">
+  
+  <img src="../schemes/Camera_ESP32_out_pcb.png" alt="Back PCB" height="350">
   
 </div>
 
-<div align="center"
+<div align="center">
   
-<em>1) Digitally traced the wiring diagram showing all the external connections of the pcb.</em>
+<em>1) ESP32-S3-CAM camera microcontroller. • 2) Arduino Nano ESP32 sensor interface and peripherals microcontroller.</em>
 
 </div>
 
