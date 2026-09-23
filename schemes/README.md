@@ -28,13 +28,24 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 ## Complete Wiring System
 
-<center>
+
   
   ### PCB Schematic
+<center>
   
-  <img src="../schemes/SCH_WRO_1-Sheet_1.png" width="900">
+  <a href="../schemes/SCH_WRO_1-Sheet_1.png" target="_blank">
+    <img src="../schemes/SCH_WRO_1-Sheet_1.png" alt="PCB Schematic" width="900">
+  </a>
   
 </center>
+
+<p align="center">
+
+  <img src="../schemes/PCB_front.jpeg" alt="Front PCB" height="600">
+  
+  <img src="../schemes/PCB_back.jpeg" alt="Back PCB" height="600">
+  
+</p>
 
 <center>
   
