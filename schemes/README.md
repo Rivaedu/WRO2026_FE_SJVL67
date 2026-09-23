@@ -33,7 +33,7 @@ We choosed a pcb due to the organization management that it provides to the elec
   ### PCB Schematic
 <div align="center">
   
-  <a href="../schemes/SCH_WRO_1-Sheet_1.png" target="_blank">
+  <a href="SCH_WRO_1-Sheet_1.png" target="_blank">
     <img src="../schemes/SCH_WRO_1-Sheet_1.png" alt="PCB Schematic" width="900">
   </a>
   
