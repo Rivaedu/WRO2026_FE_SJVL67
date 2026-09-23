@@ -29,7 +29,6 @@ We choosed a pcb due to the organization management that it provides to the elec
 ## Complete Wiring System
 
 
-  
   ### - PCB Schematic
 <div align="center">
   
@@ -65,3 +64,12 @@ We choosed a pcb due to the organization management that it provides to the elec
 <em>1) Digitally traced the wiring diagram showing all the external connections of the pcb.</em>
 
 </div>
+
+---
+
+## PCB Manufacturing process
+
+The complete PCB and all related to its design was made using the EDA, electronic design autoamtion, program EasyEDA. We use this program due to the simplicity of its use compared to other progrmas such as Proteus or KiCad learning curve, also because it provides a huge amount of components, footprints, to use at the schematics, this made the proces of making the PCB easier as it already provided the parts that we used. 
+
+The principal reason to use EasyEDA is because of its connection with their manufacturing company JLCPCB, the company where we had the PCBs made. This EDA platform of which we used the web browser version
+
