@@ -82,7 +82,7 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 <div align="center">
   
-<em>1) ESP32-S3-CAM camera microcontroller. • 2) Arduino Nano ESP32 sensor interface and peripherals microcontroller.</em>
+<em>1) Arduino Nano ESP32 sensor interface and peripherals microcontroller • 2) ESP32-S3-CAM camera microcontroller..</em>
 
 </div>
 
@@ -94,3 +94,22 @@ The complete PCB and all related to its design was made using the EDA, electroni
 
 The principal reason to use EasyEDA is because of its connection with their manufacturing company JLCPCB, the company where we had the PCBs made. This EDA platform of which we used the web browser version
 
+---
+
+## Interface and control systems
+
+---
+
+## Datasheet references
+
+| Component | Datasheet File | Key Specifications |
+|-----------|----------------|-------------------|
+| **TB6612FNG Motor Driver** | [TB6612FNG.PDF](TB6612FNG.PDF) | PWM motor control |
+| **SG90 Servo** | [SG90.PDF](SG90.PDF) | micro size servo, torque specifications |
+| **OV2640 Camera** | [OV2640DS.pdf](OV2640DS.pdf) | 2MP resolution, interface timing |
+| **BMI160 IMU** | [BMI160.pdf](BMI160.pdf) | 6-axis motion tracking |
+| **N20 Motor** | [N20_motors.pdf](N20_motors.pdf) | Motor and encoder specifications |
+| **Arduino Nano ESP32** | [Arduino_nano_esp32-datasheet.pdf](Arduino_nano_esp32-datasheet.pdf) | Pin interfaces that handle sensors and peripherals |
+| **ESP32-S3-CAM** | [GitHub: esp32s3-cam]([stm32h747.pdf](https://github.com/nulllaborg/esp32s3-cam/tree/main)) | Dual-core architecture, peripherals |
+| **DC Buck Converter** | [CN3903.PDF](CN3903.PDF) | DC-DC step-down converter, 5v |
+| **TOF400C ToF Sensor** | [DS_vl53l1x.pdf](DS_vl53l1x.pdf) | 400cm range, 27° FOV operation |
