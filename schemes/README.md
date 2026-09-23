@@ -36,10 +36,10 @@ We choosed a pcb due to the organization management that it provides to the elec
   
 </center>
 
+<center>
+  
 ### Wiring to PCB
 
-<center>
-
-  <img src="../schemes/Wiring_Diagram.png"
+  <img src="../schemes/Wiring_Diagram.png" width="600">
   
 </center>
