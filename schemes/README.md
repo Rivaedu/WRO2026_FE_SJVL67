@@ -32,7 +32,7 @@ We choosed a pcb due to the organization management that it provides to the elec
   
   ### PCB Schematic
   
-  <img src="../schemes/SCH_WRO_1-Sheet_1.png" width="600">
+  <img src="../schemes/SCH_WRO_1-Sheet_1.png" width="900">
   
 </center>
 
@@ -40,6 +40,6 @@ We choosed a pcb due to the organization management that it provides to the elec
   
 ### Wiring to PCB
 
-  <img src="../schemes/Wiring_Diagram.png" width="600">
+  <img src="../schemes/Wiring_Diagram.png" width="900">
   
 </center>
