@@ -39,13 +39,13 @@ We choosed a pcb due to the organization management that it provides to the elec
   
 </center>
 
-<p align="center">
+<div align="center">
 
-  <img src="../schemes/PCB_front.jpeg" alt="Front PCB" height="600">
+  <img src="../schemes/PCB_front.jpeg" alt="Front PCB" height="350">
   
-  <img src="../schemes/PCB_back.jpeg" alt="Back PCB" height="600">
+  <img src="../schemes/PCB_back.jpeg" alt="Back PCB" height="350">
   
-</p>
+</div>
 
 <center>
   
