@@ -92,7 +92,37 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 The complete PCB and all related to its design was made using the EDA, electronic design autoamtion, program EasyEDA. We use this program due to the simplicity of its use compared to other progrmas such as Proteus or KiCad learning curve, also because it provides a huge amount of components, footprints, to use at the schematics, this made the proces of making the PCB easier as it already provided the parts that we used. 
 
-The principal reason to use EasyEDA is because of its connection with their manufacturing company JLCPCB, the company where we had the PCBs made. This EDA platform of which we used the web browser version
+The principal reason to use EasyEDA is because of its connection with their manufacturing company JLCPCB, the company where we had the PCBs made. This EDA platform of which we used the web browser pro version, made the process of designing the PCB much easier and the steps we followed to manufacture our design are shown in the next part:
+
+<div align="center">
+
+  <img src="../other/EasyEDA_1.png" alt="First Step" height="600">
+  
+</div>
+
+<div align="center">
+
+  <img src="../other/EasyEDA_2.png" alt="First Step" height="600">
+  
+</div>
+
+<div align="center">
+
+  <img src="../other/EasyEDA_3.png" alt="First Step" height="600">
+  
+</div>
+
+<div align="center">
+
+  <img src="../other/EasyEDA_4.png" alt="First Step" height="600">
+  
+</div>
+
+<div align="center">
+
+  <img src="../other/JlcPCB_1.png" alt="First Step" height="600">
+  
+</div>
 
 ---
 
