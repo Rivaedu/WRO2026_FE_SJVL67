@@ -75,33 +75,33 @@ You can access this PCB project for reproduction [through this link.](https://os
 ### Power Distribution Architecture
 
 **Multi-Rail Power System**:
-- **+3V3 Rail**: Primary power for microcontrollers, sensors, and ToF sensors (STM32H747, nRF52832, VL53L3CX)
-- **+5V Rail**: Servo power (Feetech FS0307) and SX1308 booster input
-- **+6V Rail**: DC motor power through SX1308 booster (1500 RPM N20 motor)
-- **+2V8 Rail**: Powers the GC2145 camera and VL53L1X ToF sensor
-- **+1V8 Rail**: Low-power analog components (LSM6DSOX IMU)
+
+- **+5V Rail**: Primary power for the microcontrollers, sensors, ToF sensors, motor drive logic, and the servo (Arduino Nano ESP32, ESP32-S3-CAM, TOF400C, BMI160, SG90), provided by the buck converter (CN3903 voltage regulator module).
+- **+12V Rail**: Motor driver power (tb6612fng) straightly connected to the battery power positive pin (GNB 3s 380mAh 90C).
+- **+3.3V Rail**: Camera of the ESP32 (OV2640) powered by the ESP32 (ESP32-S3-CAM) itself.
 
 ### Power Consumption Analysis
 
 **Battery Performance Specifications**:
-- **Capacity**: 1000mAh 3.7V LiPo with PCM protection
-- **Run Time**: 4–5 hours under typical operational load
-- **Charge Time**: ~45 minutes via USB-C at 10W (2A) maximum input
-- **Calculation Basis**: Run time = Battery Capacity (mAh) / Total System Current (mA)
+- **Capacity**: 380mAh 11.4V 3S LiPo/LiHV (90C discharge rate)
+- **Run Time**: ~1.3–1.4 hours under typical operational load
+- **Charge Time**: ~45–50 minutes via IMAX B6AC at 0.4A charge current with balance charging.
+- **Calculation Basis**: Run time = Battery Usable Energy (Wh) / Total System Power (W))
 
 **Power Consumption Breakdown**:
 | Component | Voltage | Typical Current | Peak Current | Power Consumption |
 |-----------|---------|----------------|--------------|-------------------|
-| STM32H747 | 3.3V | 25 mA | 80 mA | 83 mW - 264 mW |
-| nRF52832 | 3.3V | 4 mA | 10 mA | 13 mW - 33 mW |
-| GC2145 Camera | 2.8V | 25 mA | 60 mA | 70 mW - 168 mW |
-| VL53L1X ToF | 2.8V | 10 mA | 20 mA | 28 mW - 56 mW |
-| VL53L3CX ToF (x2) | 3.3V | 12 mA each | 25 mA each | 79 mW - 165 mW |
-| LSM6DSOX IMU | 1.8V | 0.5 mA | 1.2 mA | 0.9 mW - 2.2 mW |
-| Feetech FS0307 Servo | 5V | 3 mA (idle) | 100 mA (stall) | 15 mW - 500 mW |
-| SX1308 Booster Input | 5V | 40 mA | 200 mA | 200 mW - 1500 mW |
-| 1500 RPM N20 Motor | 6V | 30 mA | 250 mA | 180 mW - 1500 mW |
-| **Total System** | **Mixed** | **~120 mA** | **~500 mA** | **~0.5W - 2.5W** |
+| Arduino Nano ESP32 | 5V (via Buck) | 80 mA | 240 mA | 400 mW - 1200 mW |
+| ESP32-S3-CAM | 5V (via Buck) | 100 mA | 310 mA | 310 mW - 1550 mW |
+| OV2640 Camera | 3.3V (via ESP32) | (included) | (included) | (included) |
+| TOF400C ToF (x4) | 5V (via Buck) | 10 mA each | 20 mA each | 200 mW - 400 mW |
+| BMI160 IMU | 5V (via Buck) | 1 mA | 1.5 mA | 5 mW - 8 mW |
+| TB6612FNG Driver | 5V (via Buck) | 2 mA | 10 mA | 10 mW - 50 mW |
+| SG90 Servo | 5V (via Buck) | 100 mA (avg) | 650 mA (stall) | 500 mW - 3250 mW |
+| CN3903 Buck Regulator Input | 11.4V (via Battery)| 15 mA | 80 mA (stall) | 170 mW - 912 mW |
+| 1500 RPM N20 Motor | 11.4V (via Battery) | 50 mA | 350 mA | 570 mW - 3990 mW |
+| **Total System** | **Mixed** | **~218 mA** | **~1017 mA** | **~2.4W - 11.4W** |
+
 
 ---
 
