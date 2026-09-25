@@ -5,7 +5,11 @@
   <img src="other/team_sjvl67_logo.png" alt="Banner" width="600">
 
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SJVL67)
-</div>
+</div>  
+
+  <a href="https://oshwlab.com/bicicleta11/works" target="_blank">
+    <img src="https://img.shields.io/badge/OSHWLab-0A7DFF?style=for-the-badge&logo=opensourcehardware&logoColor=white" />
+  </a>
 
 ---
 
