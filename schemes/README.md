@@ -104,7 +104,7 @@ The principal reason to use EasyEDA is because of its connection with their manu
 
 <div align="center">
   
-<em>1) Fist of all we entered the platform, website, of EasyEDA, where we desinged our board based on the schematic created in the same platform following our required needs.</em>
+<em> Fist of all we entered the platform, website, of EasyEDA, where we desinged our board based on the schematic created in the same platform following our required needs.</em>
 
 </div>
 
@@ -116,7 +116,7 @@ The principal reason to use EasyEDA is because of its connection with their manu
 
 <div align="center">
   
-<em>1) We selected the pro version of it as for this project we decided to use it due to the additional features it includes over the standard versiom.</em>
+<em> We selected the pro version of it as for this project we decided to use it due to the additional features it includes over the standard versiom.</em>
 
 </div>
 
@@ -129,7 +129,7 @@ The principal reason to use EasyEDA is because of its connection with their manu
 
 <div align="center">
   
-<em>1) We entered the project of our board that we previusly made, the PCB derived from the schematic, so we could then export it diectly from the EDA platform to JlcPCB and manufacture it.</em>
+<em> We entered the project of our board that we previusly made, the PCB derived from the schematic, so we could then export it diectly from the EDA platform to JlcPCB and manufacture it.</em>
 
 </div>
 
@@ -141,7 +141,7 @@ The principal reason to use EasyEDA is because of its connection with their manu
 
 <div align="center">
   
-<em>1) We then selected our order specification of the PCB, the ones considered for this project where the thicknes of the board, we used 1.6mm, and the color, although is free to your choice.</em>
+<em> We then selected our order specification of the PCB, the ones considered for this project where the thicknes of the board, we used 1.6mm, and the color, although is free to your choice.</em>
 
 </div>
 
