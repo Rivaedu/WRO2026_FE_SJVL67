@@ -28,7 +28,7 @@ This folder contains the complete electrical schematics, and power management do
   ### - PCB Schematic
 <div align="center">
   
-  <img src="../schemes/SCH_WRO_1-Sheet_1.png" alt="PCB Schematic" width="900">
+  <img src="../schemes/SCH_WRO_1-Sheet_1.png" alt="PCB Schematic" width="600">
   
 </div>
 
@@ -51,8 +51,8 @@ This folder contains the complete electrical schematics, and power management do
 
 <div align="center">
   
-  <img src="../schemes/Wiring_Diagram.png" alt="Wiring Diagram" width="900">
-  <img src="../schemes/Physical_Wiring.jpeg" alt="Physical Wiring" width="900">
+  <img src="../schemes/Wiring_Diagram.png" alt="Wiring Diagram" width="600">
+  <img src="../schemes/Physical_Wiring.jpeg" alt="Physical Wiring" width="600">
   
 </div>
                 
@@ -78,7 +78,7 @@ This folder contains the complete electrical schematics, and power management do
 
 <div align="center">
   
-<em>1) Arduino Nano ESP32 sensor interface and peripherals microcontroller • 2) ESP32-S3-CAM camera microcontroller..</em>
+<em>1) Arduino Nano ESP32 sensor interface and peripherals microcontroller • 2) ESP32-S3-CAM camera microcontroller.</em>
 
 </div>
 
@@ -96,41 +96,52 @@ The principal reason to use EasyEDA is because of its connection with their manu
 
 <div align="center">
 
-  <img src="../other/EasyEDA_1.png" alt="First Step" height="600">
-  
-</div>
-
-Fist of all we entered the platform, website, of EasyEDA, where we desinged our board based on the schematic created in the same platform following our required needs.
-
-<div align="center">
-
-  <img src="../other/EasyEDA_2.png" alt="First Step" height="600">
-  
-</div>
-
-We selected the pro version of it as for this project we decided to use it due to the additional features it includes over the standard versiom.
-
-<div align="center">
-
-  <img src="../other/EasyEDA_3.png" alt="First Step" height="600">
+  <img src="../other/EasyEDA_1.png" alt="First Step" height="400">
   
 </div>
 
 <div align="center">
-
-  <img src="../other/EasyEDA_4.png" alt="First Step" height="600">
   
-</div>
+<em>1) Fist of all we entered the platform, website, of EasyEDA, where we desinged our board based on the schematic created in the same platform following our required needs.</em>
 
-We entered the projct that we previusly made, the PCB derived from the schematic, so we could then export it diectly from the EDA platform to JlcPCB and manufacture it.
+</div>
 
 <div align="center">
 
-  <img src="../other/JlcPCB_1.png" alt="First Step" height="600">
+  <img src="../other/EasyEDA_2.png" alt="First Step" height="400">
   
 </div>
 
-We then selected our order specification of the PCB, the ones considered for this project where the thicknes of the board, we used 1.6mm, and the color, although is free to your choice.
+<div align="center">
+  
+<em>1) We selected the pro version of it as for this project we decided to use it due to the additional features it includes over the standard versiom.</em>
+
+</div>
+
+<div align="center">
+
+  <img src="../other/EasyEDA_3.png" alt="First Step" height="400">
+  <img src="../other/EasyEDA_4.png" alt="First Step" height="400">
+
+</div>
+
+<div align="center">
+  
+<em>1) We entered the project of our board that we previusly made, the PCB derived from the schematic, so we could then export it diectly from the EDA platform to JlcPCB and manufacture it.</em>
+
+</div>
+
+<div align="center">
+
+  <img src="../other/JlcPCB_1.png" alt="First Step" height="400">
+  
+</div>
+
+<div align="center">
+  
+<em>1) We then selected our order specification of the PCB, the ones considered for this project where the thicknes of the board, we used 1.6mm, and the color, although is free to your choice.</em>
+
+</div>
 
 ### - PCB order
 
@@ -138,10 +149,14 @@ The amount of time it took to arrive directly to Ecuador afeter we placed the or
 
 <div align="center">
 
-  <img src="../schemes/Arduino_nano_esp32_pcb.png" alt="Front PCB" height="350">
+  <img src="../schemes/Arduino_nano_esp32_pcb.png" alt="Front PCB" height="400">
   
-  <img src="../schemes/Camera_ESP32_out_pcb.png" alt="Back PCB" height="350">
+</div>
+
+<div align="center">
   
+<em>1) Image of the package and PCBs we received.</em>
+
 </div>
 
 The quality of this PCBs are incredibly good, they worked perfectly througout all the projet. 
