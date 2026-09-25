@@ -4,7 +4,6 @@ This folder contains the complete electrical schematics, and power management do
 
 ## Complete Bill of Materials (BOM)
 
-
 | Component | Image | Quantity | Type | Description |
 |-----------|-------|----------|------|-------------|
 | ARDUINO NANO ESP32 | <img src="../other/Arduino_nano_esp32.jpg" alt="Sensor Microcontroller" width="300"> | 1 | Sensor Microcontroller | Dual-core 240MHz microcontroller with 512KB SRAM and 3.3V logic. Used for sensor managing, controlling the motors, and processing data. |
@@ -24,8 +23,8 @@ This folder contains the complete electrical schematics, and power management do
 
 ## Complete Wiring System
 
-
-  ### - PCB Schematic
+  ### - PCB wiring Schematic and physical version
+  
 <div align="center">
   
   <img src="../schemes/SCH_WRO_1-Sheet_1.png" alt="PCB Schematic" width="600">
@@ -46,6 +45,14 @@ This folder contains the complete electrical schematics, and power management do
   manufactured pcb.</em>
 
 </div>
+
+**Engineering Documentation Excellence**:
+- **Professional Schematic**: Every connection in the PCB is meticulously documented
+
+
+**Cable management**:
+
+We decided to implement do use of a PCB in this the project due to the clean and compact way in which it offers the connections between components. As we could use a custom shape to design it so it also serves the purpose as a base to sandwich the physical components such as the steering and the drive supports.
 
 You can access this PCB project for reproduction [through this link.](https://oshwlab.com/edu560/project_ehytvvog)
   
