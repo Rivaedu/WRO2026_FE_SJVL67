@@ -116,8 +116,6 @@ We selected the pro version of it as for this project we decided to use it due t
   
 </div>
 
-We entered the projct that we previusly made, the PCB derived from the schemati
-
 <div align="center">
 
   <img src="../other/EasyEDA_4.png" alt="First Step" height="600">
@@ -133,6 +131,22 @@ We entered the projct that we previusly made, the PCB derived from the schematic
 </div>
 
 We then selected our order specification of the PCB, the ones considered for this project where the thicknes of the board, we used 1.6mm, and the color, although is free to your choice.
+
+### - PCB order
+
+The amount of time it took to arrive directly to Ecuador afeter we placed the order was around 2 weeks, less than that.
+
+<div align="center">
+
+  <img src="../schemes/Arduino_nano_esp32_pcb.png" alt="Front PCB" height="350">
+  
+  <img src="../schemes/Camera_ESP32_out_pcb.png" alt="Back PCB" height="350">
+  
+</div>
+
+The quality of this PCBs are incredibly good, they worked perfectly througout all the projet. 
+
+Thanks to JlcPCB to make this part of the project with the best quality.
 
 ---
 
