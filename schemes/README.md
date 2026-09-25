@@ -2,10 +2,6 @@
 
 This folder contains the complete electrical schematics, and power management documentation for Team SJVL67 WRO 2026 Future Engineers robot. All the electronics were assambled in a custom PCB designed by us to achieve optimal performance and organization in our robot.
 
-### - Why we choosed to use a PCB?
-
-We choosed a pcb due to the organization management that it provides to the electronics. We used a web based EDA in order to design this PCB, the program used was EasyEDA. We wanted to use a custom pertinax board but it was too bulky, but in the end we selected the PCB for the the previous mentioned reasons, even if it presented the problem of slow manufacturing and modification produced by the need of get them machined in China, we are from Ecuador. With us making a custom design we developed the essential engineering skills to manufacture it int the best way.
-
 ## Complete Bill of Materials (BOM)
 
 
@@ -90,6 +86,10 @@ We choosed a pcb due to the organization management that it provides to the elec
 
 ## PCB Manufacturing process
 
+### - Why we choosed to use a PCB?
+
+We choosed a pcb due to the organization management that it provides to the electronics. We wanted to use a custom pertinax board but it was too bulky, but in the end we selected the PCB for the the previous mentioned reasons, even if it presented the problem of slow manufacturing and modification produced by the need of get them machined in China, we are from Ecuador. With us making a custom design we developed the essential engineering skills to manufacture it int the best way.
+
 The complete PCB and all related to its design was made using the EDA, electronic design autoamtion, program EasyEDA. We use this program due to the simplicity of its use compared to other progrmas such as Proteus or KiCad learning curve, also because it provides a huge amount of components, footprints, to use at the schematics, this made the proces of making the PCB easier as it already provided the parts that we used. 
 
 The principal reason to use EasyEDA is because of its connection with their manufacturing company JLCPCB, the company where we had the PCBs made. This EDA platform of which we used the web browser pro version, made the process of designing the PCB much easier and the steps we followed to manufacture our design are shown in the next part:
@@ -108,11 +108,15 @@ Fist of all we entered the platform, website, of EasyEDA, where we desinged our 
   
 </div>
 
+We selected the pro version of it as for this project we decided to use it due to the additional features it includes over the standard versiom.
+
 <div align="center">
 
   <img src="../other/EasyEDA_3.png" alt="First Step" height="600">
   
 </div>
+
+We entered the projct that we previusly made, the PCB derived from the schemati
 
 <div align="center">
 
@@ -120,11 +124,15 @@ Fist of all we entered the platform, website, of EasyEDA, where we desinged our 
   
 </div>
 
+We entered the projct that we previusly made, the PCB derived from the schematic, so we could then export it diectly from the EDA platform to JlcPCB and manufacture it.
+
 <div align="center">
 
   <img src="../other/JlcPCB_1.png" alt="First Step" height="600">
   
 </div>
+
+We then selected our order specification of the PCB, the ones considered for this project where the thicknes of the board, we used 1.6mm, and the color, although is free to your choice.
 
 ---
 
