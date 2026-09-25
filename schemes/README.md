@@ -46,13 +46,10 @@ This folder contains the complete electrical schematics, and power management do
 
 </div>
 
-**Engineering Documentation Excellence**:
-- **Professional Schematic**: Every connection in the PCB is meticulously documented
-
 
 **Cable management**:
 
-We decided to implement do use of a PCB in this the project due to the clean and compact way in which it offers the connections between components. As we could use a custom shape to design it so it also serves the purpose as a base to sandwich the physical components such as the steering and the drive supports.
+We decided to implement the use of a PCB in this the project due to the clean and compact way in which it offers the connections between components. As we could use a custom shape to design it so it also serves the purpose as a base to sandwich the physical components such as the steering and the drive supports.
 
 You can access this PCB project for reproduction [through this link.](https://oshwlab.com/edu560/project_ehytvvog)
   
