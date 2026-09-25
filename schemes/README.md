@@ -70,6 +70,41 @@ You can access this PCB project for reproduction [through this link.](https://os
 
 ---
 
+## Power Management System
+
+### Power Distribution Architecture
+
+**Multi-Rail Power System**:
+- **+3V3 Rail**: Primary power for microcontrollers, sensors, and ToF sensors (STM32H747, nRF52832, VL53L3CX)
+- **+5V Rail**: Servo power (Feetech FS0307) and SX1308 booster input
+- **+6V Rail**: DC motor power through SX1308 booster (1500 RPM N20 motor)
+- **+2V8 Rail**: Powers the GC2145 camera and VL53L1X ToF sensor
+- **+1V8 Rail**: Low-power analog components (LSM6DSOX IMU)
+
+### Power Consumption Analysis
+
+**Battery Performance Specifications**:
+- **Capacity**: 1000mAh 3.7V LiPo with PCM protection
+- **Run Time**: 4–5 hours under typical operational load
+- **Charge Time**: ~45 minutes via USB-C at 10W (2A) maximum input
+- **Calculation Basis**: Run time = Battery Capacity (mAh) / Total System Current (mA)
+
+**Power Consumption Breakdown**:
+| Component | Voltage | Typical Current | Peak Current | Power Consumption |
+|-----------|---------|----------------|--------------|-------------------|
+| STM32H747 | 3.3V | 25 mA | 80 mA | 83 mW - 264 mW |
+| nRF52832 | 3.3V | 4 mA | 10 mA | 13 mW - 33 mW |
+| GC2145 Camera | 2.8V | 25 mA | 60 mA | 70 mW - 168 mW |
+| VL53L1X ToF | 2.8V | 10 mA | 20 mA | 28 mW - 56 mW |
+| VL53L3CX ToF (x2) | 3.3V | 12 mA each | 25 mA each | 79 mW - 165 mW |
+| LSM6DSOX IMU | 1.8V | 0.5 mA | 1.2 mA | 0.9 mW - 2.2 mW |
+| Feetech FS0307 Servo | 5V | 3 mA (idle) | 100 mA (stall) | 15 mW - 500 mW |
+| SX1308 Booster Input | 5V | 40 mA | 200 mA | 200 mW - 1500 mW |
+| 1500 RPM N20 Motor | 6V | 30 mA | 250 mA | 180 mW - 1500 mW |
+| **Total System** | **Mixed** | **~120 mA** | **~500 mA** | **~0.5W - 2.5W** |
+
+---
+
 ## Component-Specific Engineering
 
 ### - Microcontrollers
