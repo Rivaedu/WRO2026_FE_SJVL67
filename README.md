@@ -3,13 +3,6 @@
 <div align="center">
   
   <img src="other/team_sjvl67_logo.png" alt="Banner" width="600">
-
-  <a href="https://www.youtube.com/@SJVL67" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://oshwlab.com/edu560/works" target="_blank">
-    <img src="https://img.shields.io/badge/OSHWLab-0A7DFF?style=for-the-badge&logo=opensourcehardware&logoColor=white" />
-  </a>
   
 </div>  
 
