@@ -42,10 +42,12 @@ This folder contains the complete electrical schematics, and power management do
 
 <div align="center">
   
-  <em>1) Digitally traced the wiring diagram showing all the external connections of the pcb. • 2) Front side of the manufactured pcb. • 3) Back side of the
+  <em>1) Digitally made schematic that shows the connection beteen components of the PCB. • 2) Front side of the manufactured pcb. • 3) Back side of the
   manufactured pcb.</em>
 
 </div>
+
+You can access this PCB project for reproduction [through this link.](https://oshwlab.com/edu560/project_ehytvvog)
   
 ### - Wiring to PCB
 
@@ -145,7 +147,7 @@ The principal reason to use EasyEDA is because of its connection with their manu
 
 ### - PCB order
 
-The amount of time it took to arrive directly to Ecuador afeter we placed the order was around 2 weeks, less than that.
+The amount of time it took to arrive directly to Ecuador after we placed the order was around 2 weeks, less than that.
 
 <div align="center">
 
