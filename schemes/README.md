@@ -100,6 +100,8 @@ The principal reason to use EasyEDA is because of its connection with their manu
   
 </div>
 
+Fist of all we entered the platform, website, of EasyEDA, where we desinged our board based on the schematic created in the same platform following our required needs.
+
 <div align="center">
 
   <img src="../other/EasyEDA_2.png" alt="First Step" height="600">
