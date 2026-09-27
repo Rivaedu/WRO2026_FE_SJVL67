@@ -1,4 +1,4 @@
-# Schemes Documentation
+# Schemes Documentation.
 
 This folder contains the complete electrical schematics, and power management documentation for Team SJVL67 WRO 2026 Future Engineers robot. All the electronics were assambled in a custom PCB designed by us to achieve optimal performance and organization in our robot.
 
