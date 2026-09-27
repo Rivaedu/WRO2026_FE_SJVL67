@@ -1,4 +1,4 @@
-# WRO 2026 Future Engineers – SJVL67
+# WRO 2026 Future Engineers – X67
 
 <div align="center">
   
@@ -60,7 +60,7 @@
 
 ## 2. **The Team** <a id="the-team"></a>
 
-Team SJVL67 includes passionate students from Ecuador, guided by a coach. This is our **first year** competing in the WRO Future Engineers category, and each member brings unique skills to the project, from mechanical design to computer vision.
+Team X67 includes passionate students from Ecuador, guided by a coach. This is our **first year** competing in the WRO Future Engineers category, and each member brings unique skills to the project, from mechanical design to computer vision.
 
 <div align="center">
 <img width="447" height="447" alt="images (4)" src="https://github.com/user-attachments/assets/26bf3113-dde3-4416-90f8-930fe24a1e56" />
