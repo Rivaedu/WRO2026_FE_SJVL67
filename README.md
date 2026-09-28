@@ -4,8 +4,10 @@
   
   <img src="other/X67_Logo.png" alt="Banner" width="600">
   
-</div>  
+</div>
+
 ---
+
 <div align="center">
   
   <a href="https://www.youtube.com/@SJVL67" target="_blank">
