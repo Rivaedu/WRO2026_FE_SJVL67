@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="other/team_sjvl67_logo.png" alt="Banner" width="600">
+  <img src="other/X67_Logo.png" alt="Banner" width="600">
   
 </div>  
 
